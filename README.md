@@ -1,0 +1,2 @@
+# HuffmanDecoding
+Huffman algorithm
